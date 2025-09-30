@@ -1,0 +1,496 @@
+{
+  "appTitle": "SmartSpend",
+  "@appTitle": {
+    "description": "The application title"
+  },
+  
+  "welcomeBack": "Welcome Back!",
+  "@welcomeBack": {
+    "description": "Welcome message for login screen"
+  },
+  
+  "readyToTakeControl": "Ready to take control of your finances?",
+  "@readyToTakeControl": {
+    "description": "Subtitle for login screen"
+  },
+  
+  "yourEmail": "Your Email",
+  "@yourEmail": {
+    "description": "Email input placeholder"
+  },
+  
+  "yourPassword": "Your Password",
+  "@yourPassword": {
+    "description": "Password input placeholder"
+  },
+  
+  "forgetPassword": "Forget Password?",
+  "@forgetPassword": {
+    "description": "Forgot password link text"
+  },
+  
+  "orSignInWith": "Or Sign In With",
+  "@orSignInWith": {
+    "description": "Alternative sign in options text"
+  },
+  
+  "continueWithGoogle": "Continue With Google",
+  "@continueWithGoogle": {
+    "description": "Google sign in button text"
+  },
+  
+  "signIn": "Sign In",
+  "@signIn": {
+    "description": "Sign in button text"
+  },
+  
+  "dontHaveAccount": "Don't Have An Account Yet? Sign Up",
+  "@dontHaveAccount": {
+    "description": "Link to registration screen"
+  },
+  
+  "mySettings": "My Settings",
+  "@mySettings": {
+    "description": "Settings screen title"
+  },
+  
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings section title"
+  },
+  
+  "notification": "Notification",
+  "@notification": {
+    "description": "Notification setting"
+  },
+  
+  "language": "Language",
+  "@language": {
+    "description": "Language setting"
+  },
+  
+  "record": "Record",
+  "@record": {
+    "description": "Record setting"
+  },
+  
+  "securityPassword": "Security & Password",
+  "@securityPassword": {
+    "description": "Security setting"
+  },
+  
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout button"
+  },
+  
+  "english": "English",
+  "@english": {
+    "description": "English language option"
+  },
+  
+  "chinese": "简体中文",
+  "@chinese": {
+    "description": "Simplified Chinese language option"
+  },
+  
+  "search": "Search",
+  "@search": {
+    "description": "Search placeholder"
+  },
+  
+  "home": "Home",
+  "@home": {
+    "description": "Home tab"
+  },
+  
+  "planning": "Planning",
+  "@planning": {
+    "description": "Planning tab"
+  },
+  
+  "statistic": "Statistic",
+  "@statistic": {
+    "description": "Statistics tab"
+  },
+  
+  "totalBalance": "Total Balance",
+  "@totalBalance": {
+    "description": "Total balance label"
+  },
+  
+  "expend": "Expend",
+  "@expend": {
+    "description": "Expense section title"
+  },
+  
+  "topExpenses": "Top Expenses",
+  "@topExpenses": {
+    "description": "Top expenses section title"
+  },
+  
+  "viewAll": "View All",
+  "@viewAll": {
+    "description": "View all button text"
+  },
+  
+  "goodMorning": "Good Morning",
+  "@goodMorning": {
+    "description": "Morning greeting"
+  },
+  
+  "goodAfternoon": "Good Afternoon",
+  "@goodAfternoon": {
+    "description": "Afternoon greeting"
+  },
+  
+  "goodEvening": "Good Evening",
+  "@goodEvening": {
+    "description": "Evening greeting"
+  },
+  
+  "goodNight": "Good Night",
+  "@goodNight": {
+    "description": "Night greeting"
+  },
+  
+  "financialPlanning": "Financial Planning",
+  "@financialPlanning": {
+    "description": "Financial planning title"
+  },
+  
+  "addPlan": "Add Plan",
+  "@addPlan": {
+    "description": "Add plan button"
+  },
+  
+  "noExpensesYet": "No expenses yet",
+  "@noExpensesYet": {
+    "description": "Empty state for expenses"
+  },
+  
+  "tapToAddExpense": "Tap the + button to add your first expense",
+  "@tapToAddExpense": {
+    "description": "Empty state instruction"
+  },
+
+  "sessionExpired": "Session expired. Please sign in again.",
+  "@sessionExpired": {
+    "description": "Session expired message"
+  },
+
+  "thisWeek": "This Week",
+  "@thisWeek": {
+    "description": "Current week label"
+  },
+
+  "lastWeek": "Last Week", 
+  "@lastWeek": {
+    "description": "Previous week label"
+  },
+
+  "weeksAgo": "{count} Weeks Ago",
+  "@weeksAgo": {
+    "description": "Weeks ago label",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+
+  "selectWeek": "Select Week",
+  "@selectWeek": {
+    "description": "Week selection dialog title"
+  },
+
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button"
+  },
+
+  "errorLoadingData": "Error loading data",
+  "@errorLoadingData": {
+    "description": "Data loading error message"
+  },
+
+  "unknownError": "Unknown error",
+  "@unknownError": {
+    "description": "Generic error message"
+  },
+
+  "retry": "Retry",
+  "@retry": {
+    "description": "Retry button"
+  },
+
+  "noAccountSetup": "No Account Setup",
+  "@noAccountSetup": {
+    "description": "No account setup title"
+  },
+
+  "createFirstAccount": "Create your first account to start\ntracking your expenses",
+  "@createFirstAccount": {
+    "description": "Create first account instruction"
+  },
+
+  "createAccount": "Create Account",
+  "@createAccount": {
+    "description": "Create account button"
+  },
+
+  "currentAccount": "Current Account",
+  "@currentAccount": {
+    "description": "Current account label"
+  },
+
+  "availableBalance": "Available Balance",
+  "@availableBalance": {
+    "description": "Available balance label"
+  },
+
+  "tapToSwitch": "Tap to switch",
+  "@tapToSwitch": {
+    "description": "Tap to switch instruction"
+  },
+
+  "dailyAvg": "Daily Avg",
+  "@dailyAvg": {
+    "description": "Daily average label"
+  },
+
+  "highestDay": "Highest Day",
+  "@highestDay": {
+    "description": "Highest spending day label"
+  },
+
+  "none": "None",
+  "@none": {
+    "description": "None label"
+  },
+
+  "hereIsYourFinancialOverview": "Here's your financial overview",
+  "@hereIsYourFinancialOverview": {
+    "description": "Financial overview subtitle"
+  },
+
+  "yourFinancialHealthScore": "Your Financial Health Score",
+  "@yourFinancialHealthScore": {
+    "description": "Financial health score title"
+  },
+
+  "totalExpenses": "Total Expenses",
+  "@totalExpenses": {
+    "description": "Total expenses label"
+  },
+
+  "totalIncome": "Total Income",
+  "@totalIncome": {
+    "description": "Total income label"
+  },
+
+  "currentBalance": "Current Balance",
+  "@currentBalance": {
+    "description": "Current balance label"
+  },
+
+  "netSavings": "Net Savings",
+  "@netSavings": {
+    "description": "Net savings label"
+  },
+
+  "viewTransactionHistory": "View Transaction History",
+  "@viewTransactionHistory": {
+    "description": "View transaction history button"
+  },
+
+  "user": "User",
+  "@user": {
+    "description": "Default user name"
+  },
+
+  "excellent": "Excellent",
+  "@excellent": {
+    "description": "Excellent rating"
+  },
+
+  "great": "Great",
+  "@great": {
+    "description": "Great rating"
+  },
+
+  "good": "Good",
+  "@good": {
+    "description": "Good rating"
+  },
+
+  "fair": "Fair",
+  "@fair": {
+    "description": "Fair rating"
+  },
+
+  "poor": "Poor",
+  "@poor": {
+    "description": "Poor rating"
+  },
+
+  "quickActions": "Quick Actions",
+  "@quickActions": {
+    "description": "Quick actions section title"
+  },
+
+  "charts": "Charts",
+  "@charts": {
+    "description": "Charts screen title"
+  },
+
+  "income": "Income",
+  "@income": {
+    "description": "Income section title"
+  },
+
+  "expenses": "Expenses",
+  "@expenses": {
+    "description": "Expenses section title"
+  },
+
+  "noIncomeData": "No Income Data",
+  "@noIncomeData": {
+    "description": "No income data message"
+  },
+
+  "needToAddIncome": "You need to add your income before you can see the pie chart 😊",
+  "@needToAddIncome": {
+    "description": "Add income instruction message"
+  },
+
+  "totalIncome": "Total Income",
+  "@totalIncome": {
+    "description": "Total income label"
+  },
+
+  "noExpenseData": "No Expense Data",
+  "@noExpenseData": {
+    "description": "No expense data message"
+  },
+
+  "needToAddExpenses": "You need to add your expenses before you can see the pie chart 😊",
+  "@needToAddExpenses": {
+    "description": "Add expenses instruction message"
+  },
+
+  "startByAddingTransactions": "Start by adding some transactions!",
+  "@startByAddingTransactions": {
+    "description": "Empty state message for charts"
+  },
+
+  "breakdownByCategory": "Breakdown by Category",
+  "@breakdownByCategory": {
+    "description": "Breakdown section title"
+  },
+
+  "other": "Other",
+  "@other": {
+    "description": "Other category label"
+  },
+
+  "aiFinancialAssistant": "AI Financial Assistant",
+  "@aiFinancialAssistant": {
+    "description": "AI screen title"
+  },
+
+  "askMeAboutFinances": "Ask me anything about your finances!",
+  "@askMeAboutFinances": {
+    "description": "AI assistant welcome message"
+  },
+
+  "financialOverview": "Financial Overview",
+  "@financialOverview": {
+    "description": "Financial overview section title"
+  },
+
+  "balance": "Balance",
+  "@balance": {
+    "description": "Balance label"
+  },
+
+  "aiInsights": "AI Insights",
+  "@aiInsights": {
+    "description": "AI insights section title"
+  },
+
+  "loadingInsights": "Loading insights...",
+  "@loadingInsights": {
+    "description": "Loading insights message"
+  },
+
+  "savingsTips": "Savings Tips",
+  "@savingsTips": {
+    "description": "Savings tips section title"
+  },
+
+  "loadingTips": "Loading tips...",
+  "@loadingTips": {
+    "description": "Loading tips message"
+  },
+
+  "askAboutFinances": "Ask me about your finances...",
+  "@askAboutFinances": {
+    "description": "Input field placeholder"
+  },
+
+  "deletePlannedPayment": "Delete Planned Payment",
+  "@deletePlannedPayment": {
+    "description": "Delete planned payment dialog title"
+  },
+
+  "planningOverview": "Planning Overview",
+  "@planningOverview": {
+    "description": "Planning overview section title"
+  },
+
+  "manageFuturePayments": "Manage your future payments",
+  "@manageFuturePayments": {
+    "description": "Planning section subtitle"
+  },
+
+  "delete": "Delete",
+  "@delete": {
+    "description": "Delete button"
+  },
+
+  "generateQRReport": "Generate QR Report",
+  "@generateQRReport": {
+    "description": "Generate QR report dialog title"
+  },
+
+  "weeklyReport": "Weekly Report",
+  "@weeklyReport": {
+    "description": "Weekly report button"
+  },
+
+  "monthlyReport": "Monthly Report",
+  "@monthlyReport": {
+    "description": "Monthly report button"
+  },
+
+  "close": "Close",
+  "@close": {
+    "description": "Close button"
+  },
+
+  "dangerZone": "Danger Zone",
+  "@dangerZone": {
+    "description": "Danger zone section title"
+  },
+
+  "deleteAccount": "Delete Account",
+  "@deleteAccount": {
+    "description": "Delete account button"
+  },
+
+  "securityReasonReauth": "For security reasons, please sign out and sign in again, then try deleting your account.",
+  "@securityReasonReauth": {
+    "description": "Re-authentication required message"
+  }
+}
